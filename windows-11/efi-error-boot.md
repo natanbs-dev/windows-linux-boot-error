@@ -1,7 +1,9 @@
 # Erro quanto ao desaparecimento da partição de boot do windows:
 
 >  algo que ocorre com frequência quanto a um dual boot com linux tem, sim, solução
-sem ter que recorrer a formatar todo o disco:
+sem ter que recorrer a formatar todo o disco
+somente reparando a partição boot do windows
+
 
 ```
 diskpart
